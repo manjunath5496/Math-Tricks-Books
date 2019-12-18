@@ -8,7 +8,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-Books/blob/master/bot(3).pdf" style="text-decoration:none;"> 1001 Math Problems</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-Books/blob/master/bot(4).pdf" style="text-decoration:none;">The Mathematics of Games and Puzzles: From Cards to Sudoku</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-Books/blob/master/bot(5).pdf" style="text-decoration:none;">A Passion for Mathematics: Numbers, Puzzles, Madness, Religion, and the Quest for Reality</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-Books/blob/master/bot(6).pdf" style="text-decoration:none;">Practical Robot Design: Game Playing Robots</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-Books/blob/master/bot(6).pdf" style="text-decoration:none;">Ahmes' Legacy: Puzzles and the Mathematical Mind</a></b></li>  
                                              
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-Books/blob/master/bot(7).pdf" style="text-decoration:none;">Robot Fish: Bio-inspired Fishlike Underwater Robots</a></b></li>
